@@ -1,0 +1,6 @@
+backend/__pycache__
+# Ignore Python cache files
+
+
+backend/venv/
+# Ignore virtual environment directories
